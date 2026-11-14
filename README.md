@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Richard Elmorry 👋
 
-<!--
-**richardelmorry-eng/richardelmorry-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my skills in data analysis through the Year Up United Data Analyst Academy. I work with SQL, Excel, and Git/GitHub, and I'm learning Python and Power BI next.
 
-Here are some ideas to get you started:
+## Year Up United
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects and coursework from the Year Up United Data Analyst Academy.
+
+- [**data-analytics**](https://github.com/richardelmorry-eng/data-analytics): my weekly homework, labs, and notes from the 12-week program
+- [**Capstone_1**](https://github.com/richardelmorry-eng/Capstone_1): EmporiUm South Carolina sales analysis using SQL and Excel
+
+## Personal Projects
+
+Coming soon.
+
+## Work
+
+Coming soon.
+
+## Tools and Skills
+
+- SQL and MySQL Workbench
+- Excel (PivotTables and PivotCharts)
+- Git and GitHub
+- Coming up: Python and Power BI
