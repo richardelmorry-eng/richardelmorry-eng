@@ -1,4 +1,4 @@
-# Hi, I'm Richard Elmorry 👋
+# Hi, I'm Richard Elmorry 
 
 I'm building my skills in data analysis through the Year Up United Data Analyst Academy. I work with SQL, Excel, and Git/GitHub, and I'm learning Python and Power BI next.
 
